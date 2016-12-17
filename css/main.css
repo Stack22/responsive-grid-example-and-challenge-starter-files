@@ -17,14 +17,14 @@ main .row {
   color: white;
 }
 
-.green, .boxThree {
+.green/*, .boxThree*/ {
   background-color: green;
 }
 
-.orange, .boxOne {
+.orange/*, .boxOne*/ {
   background-color: orange;
 }
 
-.blue, .boxTwo {
+.blue/*, .boxTwo*/ {
   background-color: blue;
 }
